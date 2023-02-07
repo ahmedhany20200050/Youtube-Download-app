@@ -17,6 +17,6 @@ specifically: /storage/emulated/0/youtube test download/
 ##Packages Used
 
 Youtube explode  --> for downloading youtube videos
-permission_handler --> for getting storage permission
-path_provider --> to create files and folders
-image_gallery_saver --> to tell the gallery that a new video exists
+permission_handler --> for getting storage permission 
+path_provider --> to create files and folders 
+image_gallery_saver --> to tell the gallery that a new video exists 
