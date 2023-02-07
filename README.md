@@ -1,16 +1,22 @@
 # youtube_test
 
-A new Flutter project.
+it can be used to download youtube videos.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+##How To Use
 
-A few resources to get you started if this is your first Flutter project:
+just past the url and press the download button
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+##Where do you save files?
+
+you will find the download folder just after opening the file manager in your phone.
+specifically: /storage/emulated/0/youtube test download/
+
+
+##Packages Used
+
+Youtube explode  --> for downloading youtube videos
+permission_handler --> for getting storage permission
+path_provider --> to create files and folders
+image_gallery_saver --> to tell the gallery that a new video exists
