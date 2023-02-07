@@ -1,6 +1,6 @@
 # youtube_test
 
-it can be used to download youtube videos.
+Used to download youtube videos.
 
 
 ##How To Use
@@ -16,7 +16,7 @@ specifically: /storage/emulated/0/youtube test download/
 
 ##Packages Used
 
-Youtube explode  --> for downloading youtube videos
-permission_handler --> for getting storage permission 
-path_provider --> to create files and folders 
-image_gallery_saver --> to tell the gallery that a new video exists 
+Youtube explode  --> for downloading youtube videos <br />
+Permission_handler --> for getting storage permission <br />
+Path_provider --> to create files and folders <br />
+Image_gallery_saver --> to tell the gallery that a new video exists <br />
