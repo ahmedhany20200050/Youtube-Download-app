@@ -74,6 +74,7 @@ android {
             signingConfig signingConfigs.debug
         }
     }
+    namespace 'com.example.youtube_test'
 }
 
 flutter {
